@@ -1,0 +1,14 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/ServiceRegistry"/>
+<use name="FWCore/PluginManager"/>
+<use name="CommonTools/UtilAlgos"/>
+<use name="FWCore/ParameterSet"/>
+<use name="DataFormats/ParticleFlowCandidate"/>
+<use name="DataFormats/ParticleFlowReco"/>
+<use name="DataFormats/PatCandidates"/>
+<use name="DataFormats/JetReco/">
+<use name="boost"/>
+<use name="root"/>
+<use name="rootcore"/>
+
+<flags EDM_PLUGIN="1"/>
