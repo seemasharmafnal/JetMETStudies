@@ -16,7 +16,7 @@
 //
 //
 
-#include "PFCalibration/PFJetAnalyzer/plugins/PFJetAnalyzerRECO.h"
+#include "JetMETStudies/PFJetAnalyzer/plugins/PFJetAnalyzerRECO.h"
 #include "DataFormats/ParticleFlowReco/interface/PFBlock.h"
 #include "DataFormats/ParticleFlowReco/interface/PFBlockElementTrack.h"
 #include "DataFormats/ParticleFlowReco/interface/PFBlockElementCluster.h"
